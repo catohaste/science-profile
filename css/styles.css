@@ -52,9 +52,16 @@ body, html {
 	margin-bottom: 5px;
 }
 
+.mres-page {
+	padding-top: 20px;
+}
+
 .page-title {
-	margin-top: 30px;
-	margin-bottom: 10px;
+	margin: 5px 1% 0px 0px;
+}
+
+.page-title p {
+	margin-left: 10px;
 }
 
 .mres {
@@ -67,11 +74,11 @@ body, html {
 }
 
 .heading {
-	margin: 0 10px;
+	margin: 0 2%;
 }
 
 .mres-row {
-	margin: 0 5px;
+	margin: 0 3%;
 }
 
 .mp p {
@@ -81,6 +88,11 @@ body, html {
 
 .mpimg {
 	width: 100%;
+}
+
+#profile {
+	width: 100%;
+	border-radius: 50%;
 }
 
 .navbar-static-top {
