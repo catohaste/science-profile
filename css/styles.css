@@ -1,0 +1,87 @@
+/*
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Inconsolata', sans-serif;
+*/
+
+body, html {
+	height: 100%;
+}
+
+.navbar-brand{
+	font-family: 'Inconsolata', sans-serif;
+}
+
+.nav-item{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.home-bg {
+	/* The image used */
+	background-image: url("img/background.jpg");
+
+	/* Full height */
+	height: 100%;
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.home-content {
+	margin-top: 17%;
+	margin-left: 13%;
+	color: #f2f2f2;
+}
+
+.home-content h1 {
+	font-size: 60px;
+	font-family: 'Inconsolata', sans-serif;
+}
+
+.home-content p {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#early {
+	font-size: 30px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.mres {
+	margin-top: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.mres h1, h2, h3, h4, h5, h6 {
+	font-family: 'Inconsolata', sans-serif;
+}
+
+.mres-intro {
+
+}
+
+.mp p {
+	margin-top: 5px;
+	text-align: left; 
+}
+
+.mpimg-holder {
+
+}
+
+.mpimg {
+	width: 100%;
+}
+
+.mres-full {
+	margin-top: 50px;
+}
+
+.navbar-static-top {
+	margin-bottom: 19px;
+}
