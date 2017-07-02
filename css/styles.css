@@ -52,17 +52,26 @@ body, html {
 	margin-bottom: 5px;
 }
 
+.page-title {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
 .mres {
 	margin-top: 20px;
 	font-family: 'Montserrat', sans-serif;
 }
 
-.mres h1, h2, h3, h4, h5, h6 {
+.mres h1,h2,h3,h4,h5,h6 {
 	font-family: 'Inconsolata', sans-serif;
 }
 
-.mres-intro {
+.heading {
+	margin: 0 10px;
+}
 
+.mres-row {
+	margin: 0 5px;
 }
 
 .mp p {
@@ -70,16 +79,8 @@ body, html {
 	text-align: left; 
 }
 
-.mpimg-holder {
-
-}
-
 .mpimg {
 	width: 100%;
-}
-
-.mres-full {
-	margin-top: 50px;
 }
 
 .navbar-static-top {
