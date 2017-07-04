@@ -1,6 +1,6 @@
 /*
-	font-family: 'Montserrat', sans-serif;
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 */
 
 body, html {
@@ -8,11 +8,11 @@ body, html {
 }
 
 .navbar-brand{
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
-.nav-item{
-	font-family: 'Montserrat', sans-serif;
+.nav-item {
+	font-family: 'Open Sans', sans-serif;
 }
 
 .home-bg {
@@ -36,12 +36,12 @@ body, html {
 
 .home-content h1 {
 	font-size: 60px;
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 .home-content p {
 	font-size: 20px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -52,35 +52,41 @@ body, html {
 	margin-bottom: 5px;
 }
 
-.mres-page {
-	padding-top: 20px;
+.content {
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 40px;
+}
+
+.content h1,h2,h3,h4,h5,h6 {
+	font-family: 'Raleway', sans-serif;
 }
 
 .page-title {
 	margin: 5px 1% 0px 0px;
-	background-color: #E58F65;
+	background-color: #CE5142;
 	padding:15px;
-	border-radius: 4px;
+	border-radius: 6px;
 }
 
-.page-title p {
-	margin-left: 10px;
+.intro-row {
+	margin: 10px 0px;
 }
 
-.mres {
-	margin-top: 20px;
-	font-family: 'Montserrat', sans-serif;
+.intro-words {
+	background-color: #BDCB9D;
+	border-radius: 6px;
+	padding: 15px;
 }
 
-.mres h1,h2,h3,h4,h5,h6 {
-	font-family: 'Inconsolata', sans-serif;
+.circle-img-container {
+	padding: 5px;
 }
 
 .heading {
 	margin: 0 2%;
 }
 
-.mres-row {
+.content-row {
 	margin: 0 3%;
 }
 
