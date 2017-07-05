@@ -103,6 +103,11 @@ body, html {
 	color: black;
 }
 
+#summer-img {
+	border-radius: 6px;
+	width:100%;
+}
+
 .mp p {
 	margin-top: 5px;
 	text-align: left; 
