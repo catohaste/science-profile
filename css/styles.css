@@ -79,18 +79,19 @@ body, html {
 .intro-words-about {
 	background-color: #FFEABC; /*BDCB9D*/
 	border-radius: 6px;
-	padding: 60px 70px 30px 60px;
-	font-size: 20px;
-	font-style: italic;
-	font-weight: bold;
-	line-height: 250%;
-	text-align: justify;
+	padding: 25px;
+	font-size: 18px;
+}
+
+.intro-words-about li {
+	padding-bottom: 5px;
 }
 
 .intro-words-mres {
 	background-color: #FFEABC; /*BDCB9D*/
 	border-radius: 6px;
 	padding: 15px;
+	font-size: 17px;
 }
 
 .circle-img-container {
@@ -167,6 +168,12 @@ body, html {
 
 #logoUCL img {
 	height: 60px;
+}
+
+#links {
+	background-color: #FFEABC;
+	border-radius: 6px;
+	padding: 15px;
 }
 
 .footer {
