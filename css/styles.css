@@ -128,6 +128,10 @@ body, html {
 	width:100%;
 }
 
+#summer-words {
+	padding-top: 10px;
+}
+
 .text-link {
 	text-decoration: underline;
 	color: #292b2c;
@@ -144,6 +148,25 @@ body, html {
 
 .mres-img {
 	width: 100%;
+}
+
+#exit-words {
+	padding: 15px;
+}
+
+.exit-words-mres {
+	background-color: #FFEABC; /*BDCB9D*/
+	border-radius: 6px;
+	padding: 15px;
+	padding-bottom: 20px;
+}
+
+#logoUCL {
+	text-align: center;
+}
+
+#logoUCL img {
+	height: 60px;
 }
 
 .footer {
