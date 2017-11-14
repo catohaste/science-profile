@@ -170,10 +170,23 @@ body, html {
 	height: 60px;
 }
 
+.half-row { 
+	padding: 0 10px 0 0;
+	height: 200px;
+ }
+
 #links {
-	background-color: #FFEABC;
 	border-radius: 6px;
 	padding: 15px;
+	background-color: #FFEABC;
+	height: 100%;
+}
+
+#gender {
+	border-radius: 6px;
+	padding: 15px;
+	background-color: #CE5142;
+	height: 100%;
 }
 
 .footer {
