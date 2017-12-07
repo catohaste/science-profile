@@ -71,7 +71,12 @@ body, html {
 	border-radius: 6px;
 }
 
-.page-title a {
+.title-link {
+	color: #292b2c;
+}
+
+.title-link:hover {
+	text-decoration: underline;
 	color: #292b2c;
 }
 
