@@ -171,8 +171,7 @@ body, html {
 }
 
 .half-row { 
-	padding: 0 10px 0 0;
-	height: 200px;
+	padding: 5px;
  }
 
 #links {
